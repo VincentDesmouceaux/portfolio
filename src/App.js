@@ -13,6 +13,12 @@ function App() {
           <a href="#projets">Projects</a>
           <a href="#formation">Contact</a>
         </nav>
+
+        <img
+          className="computer"
+          src="/Users/vincentdesmont/LeReacteur/Portfolio/portfolio/public/img/1671641382486.jpg"
+          alt="hello"
+        />
       </main>
       <footer></footer>
     </div>
