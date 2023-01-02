@@ -14,11 +14,7 @@ function App() {
           <a href="#formation">Contact</a>
         </nav>
 
-        <img
-          className="computer"
-          src="/Users/vincentdesmont/LeReacteur/Portfolio/portfolio/public/img/1671641382486.jpg"
-          alt="hello"
-        />
+        <img className="computer" src="img/1671641382486.jpg" alt="hello" />
       </main>
       <footer></footer>
     </div>
