@@ -10,6 +10,11 @@ h1 {
   line-height: 200px;
   text-align: center;
 }
+
+.helloworld {
+  text-align: center;
+}
+
 .main-block {
   width: 1024px;
   background-color: white;
@@ -33,11 +38,20 @@ nav a {
   text-decoration: none;
 }
 nav a:hover {
-  color: rgb(2, 2, 233);
+  color: rgb(2, 160, 233);
 }
 
 .computer {
   height: 400px;
   width: 1024px;
   object-fit: cover;
+}
+
+section {
+  padding: 100px;
+}
+
+#education,
+#contact {
+  background-color: rgb(118, 118, 136);
 }
