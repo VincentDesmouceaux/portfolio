@@ -36,7 +36,8 @@ nav a:hover {
   color: rgb(2, 2, 233);
 }
 
-img {
-  height: 200px;
-  width: 200px;
+.computer {
+  height: 400px;
+  width: 1024px;
+  object-fit: cover;
 }
