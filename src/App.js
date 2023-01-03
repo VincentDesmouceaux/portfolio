@@ -7,6 +7,7 @@ function App() {
         <h1>Hello World :D !</h1>
         <div className="helloworld">
           <img
+            className="gif"
             src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"
             alt="hello"
           />
@@ -21,7 +22,15 @@ function App() {
         </nav>
 
         <img className="computer" src="img/1671641382486.jpg" alt="hello" />
-        <section id="about-me"></section>
+        <section id="about-me">
+          <div className="informations">
+            <img src="img/photo cv.JPG" alt="me " />
+            <div className="informations-texts">
+              <p>Vincent Desmouceaux</p>
+              <p>full-stack web developer, Paris</p>
+            </div>
+          </div>
+        </section>
         <section id="education"></section>
         <section id="projects"></section>
         <section id="contact"></section>
