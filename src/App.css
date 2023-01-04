@@ -170,7 +170,7 @@ h2 {
 }
 
 .project-container img {
-  width: 550px;
+  width: 500px;
   margin-right: 80px;
 }
 
@@ -191,4 +191,25 @@ h4 {
 #projects a {
   text-decoration: none;
   color: black;
+}
+
+#contact img {
+  height: 30px;
+  margin-right: 20px;
+}
+
+#contact div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#contact a {
+  color: black;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  color: rgb(2, 160, 233);
 }

@@ -29,13 +29,16 @@ function App() {
               <p className="name">Vincent Desmouceaux</p>
               <p className="job">I am a Full Stack Developer,</p>
               <p className="location">from Paris.</p>
-              <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+              <img
+                src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+                alt="cat"
+              />
             </div>
           </div>
-          <h3>About me 😀</h3>
+          <h3>About me </h3>
           <p>
             I built my first computer when I was in sixth grade and since then,
-            always passionate about new technologies, I studied sound
+            I was always passionate about new technologies, I studied sound
             engineering, I worked in mobile telephony or even in real estate.
             Knowledge of the M.E.R.S environment ( mongoDb, expo, react, node.js
             ).
@@ -53,7 +56,11 @@ function App() {
           <p>
             Recently, I took the <span>Web & Mobile Development</span> training
             at
-            <a href="https://www.lereacteur.io/" target="_blank">
+            <a
+              href="https://www.lereacteur.io/"
+              target="_blank"
+              rel="noreferrer"
+            >
               le Reacteur
             </a>
             to improve my knowledge and learn new technologies :
@@ -63,6 +70,7 @@ function App() {
             <img src="/img/react.png" alt="react" />
             <img src="/img/mongodb.png" alt="react" />
             <img
+              style={{ height: 80 }}
               src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png "
               alt="JSX"
             />
@@ -86,6 +94,7 @@ function App() {
               alt="node.js"
             />
             <img
+              style={{ height: 70 }}
               src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg"
               alt="netlify"
             />
@@ -95,19 +104,23 @@ function App() {
               alt="stripe"
             />
             <img
+              style={{ height: 50 }}
               src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cloudinary_logo_blue_0720_2x.png"
               alt="cloudinary"
             />
 
             <img
+              style={{ height: 50 }}
               src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg"
               alt="astudio"
             />
             <img
+              style={{ height: 60 }}
               src="https://logos-download.com/wp-content/uploads/2020/06/Postman_Logo.png"
               alt="postman"
             />
             <img
+              style={{ height: 40 }}
               src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Axios_%28computer_library%29_logo.svg "
               alt="AXIOS"
             />
@@ -123,7 +136,11 @@ function App() {
             <span>react</span>, <span>html</span> and
             <span> css</span>. Here are examples of work 🚧:
           </p>
-          <a href="https://tripadvisor-by-vincent.netlify.app/" target="_blank">
+          <a
+            href="https://tripadvisor-by-vincent.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <div className="project-container">
               <img src="img/tripadvisorbyvins.png" alt="tripadvisor" />
               <div>
@@ -136,7 +153,11 @@ function App() {
               </div>
             </div>
           </a>
-          <a href="https://netflix-by-vincent.netlify.app/" target="_blank">
+          <a
+            href="https://netflix-by-vincent.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <div className="project-container">
               <img src="img/netflixbyvins.png" alt="netflix" />
               <div>
@@ -149,7 +170,11 @@ function App() {
               </div>
             </div>
           </a>
-          <a href="https://vinted-vincent.netlify.app/" target="_blank">
+          <a
+            href="https://vinted-vincent.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <div className="project-container">
               <img src="img/vintedbyvins.png" alt="vinted" />
               <div>
@@ -167,7 +192,11 @@ function App() {
               </div>
             </div>
           </a>
-          <a href="https://rawg-by-vincent.netlify.app/" target="_blank">
+          <a
+            href="https://rawg-by-vincent.netlify.app/"
+            target="_blank"
+            rel="noreferrer"
+          >
             <div className="project-container">
               <img src="img/rawgbyvincent.png" alt="rawg" />
               <div>
@@ -177,15 +206,58 @@ function App() {
                   <li>Registration / login</li>
 
                   <li>Operation of an API</li>
-                  <li>Announcements</li>
+
                   <li>Search bar</li>
                   <li>Filters</li>
                 </ul>
               </div>
             </div>
           </a>
+
+          <div className="project-container">
+            <img src="img/airbnb.png" alt="airbnb" />
+            <div>
+              <h3>Airbnb Mobile</h3>
+              <h4>Full-Stack project</h4>
+              <ul>
+                <li>Registration / login</li>
+
+                <li>Editing the user profile</li>
+                <li>Map display</li>
+                <li>Geolocation</li>
+                <li>Access to the image gallery</li>
+                <li>Access to the camera</li>
+              </ul>
+            </div>
+          </div>
         </section>
-        <section id="contact"></section>
+        <section id="contact">
+          <h2>Contact</h2>
+          <div>
+            <img src="img/mail.jpg" alt="mail" />
+            <p>desmontvincent@gmail.com</p>
+          </div>
+          <div>
+            <img src="img/linkedin.png" alt="linkedin" />
+            <a
+              href="https://www.linkedin.com/in/vincent-desmouceaux-277b3b244/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              https://www.linkedin.com/
+            </a>
+          </div>
+          <div>
+            <img src="img/github.png" alt="github" />
+            <a
+              href="https://github.com/VincentDesmouceaux"
+              target="_blank"
+              rel="noreferrer"
+            >
+              https://github.com/
+            </a>
+          </div>
+        </section>
       </main>
       <footer></footer>
     </div>
