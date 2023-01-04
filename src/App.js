@@ -28,8 +28,8 @@ function App() {
             <div className="informations-texts">
               <p className="name">Vincent Desmouceaux</p>
               <p className="job">I am a Full Stack Developer,</p>
-              <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
               <p className="location">from Paris.</p>
+              <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
             </div>
           </div>
           <h3>About me 😀</h3>
@@ -48,21 +48,34 @@ function App() {
             <img src="img/javascript.png" alt="js" />
             <img src="img/html.png" alt="html" />
             <img src="img/css.png" alt="css" />
+          </div>
+
+          <p>
+            Recently, I took the <span>Web & Mobile Development</span> training
+            at
+            <a href="https://www.lereacteur.io/" target="_blank">
+              le Reacteur
+            </a>
+            to improve my knowledge and learn new technologies :
+          </p>
+
+          <div>
             <img src="/img/react.png" alt="react" />
             <img src="/img/mongodb.png" alt="react" />
             <img
               src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png "
               alt="JSX"
             />
-            <img
-              src="https://www.soat.fr/assets/images/formation/git.jpg"
-              alt="git"
-            />
 
             <img
               src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a"
               alt="expo"
             />
+            <img
+              src="https://www.soat.fr/assets/images/formation/git.jpg"
+              alt="git"
+            />
+
             <img
               src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
               alt="vsc"
@@ -101,7 +114,27 @@ function App() {
           </div>
         </section>
 
-        <section id="projects"></section>
+        <section id="projects">
+          <h2>Projects</h2>
+
+          <p>
+            I train daily to make replicas of websites and I'm able to develop
+            backends that interact with databases and frontends integrating{" "}
+            <span>react</span>, <span>html</span> and
+            <span> css</span>. Here are examples of work 🚧:
+          </p>
+          <div className="project-container">
+            <img src="img/tripadvisor.png" alt="tripadvisor" />
+            <div>
+              <h3>Tripadvisor Web</h3>
+              <h4>Front-End project</h4>
+              <ul>
+                <li>photo carousel</li>
+                <li>Automated sending of emails</li>
+              </ul>
+            </div>
+          </div>
+        </section>
         <section id="contact"></section>
       </main>
       <footer></footer>
