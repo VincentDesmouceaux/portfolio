@@ -26,10 +26,20 @@ function App() {
           <div className="informations">
             <img src="img/photo cv.JPG" alt="me " />
             <div className="informations-texts">
-              <p>Vincent Desmouceaux</p>
-              <p>full-stack web developer, Paris</p>
+              <p className="name">Vincent Desmouceaux</p>
+              <p className="job">I am a Full Stack Developer,</p>
+              <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+              <p className="location">from Paris.</p>
             </div>
           </div>
+          <h3>About me 😀</h3>
+          <p>
+            I built my first computer when I was in sixth grade and since then,
+            always passionate about new technologies, I studied sound
+            engineering, I worked in mobile telephony or even in real estate.
+            Knowledge of the M.E.R.S environment ( mongoDb, expo, react, node.js
+            ).
+          </p>
         </section>
         <section id="education"></section>
         <section id="projects"></section>

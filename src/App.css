@@ -11,6 +11,10 @@ h1 {
   text-align: center;
 }
 
+p {
+  line-height: 30px;
+}
+
 .helloworld {
   text-align: center;
 }
@@ -57,7 +61,13 @@ section {
 
 #education,
 #contact {
-  background-color: rgb(118, 118, 136);
+  background-color: rgb(223, 223, 240);
+}
+
+.informations {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .informations img {
@@ -65,5 +75,43 @@ section {
   width: 250px;
   object-fit: cover;
   border-radius: 50%;
-  border: yellow 2px solid;
+  border: rgb(0, 9, 79) 2px solid;
+  margin-right: 80px;
+  margin-bottom: 100px;
+}
+
+.informations-texts img {
+  height: 75px;
+  width: 110px;
+  object-fit: initial;
+  border-radius: 1%;
+  border: rgb(255, 255, 255) 2px solid;
+  padding-top: 20px;
+  padding-left: 150px;
+}
+
+.name {
+  font-size: 38px;
+  font-weight: bold;
+  color: #000031;
+  margin-bottom: 50px;
+}
+
+.job,
+.location {
+  font-size: 30px;
+  color: #000031;
+  font-style: italic;
+}
+
+.location {
+  padding-left: 300px;
+  line-height: 1px;
+}
+
+h3 {
+  font-size: 26px;
+  font-weight: bold;
+  color: #000031;
+  margin-bottom: 40px;
 }
