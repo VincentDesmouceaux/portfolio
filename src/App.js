@@ -123,17 +123,67 @@ function App() {
             <span>react</span>, <span>html</span> and
             <span> css</span>. Here are examples of work 🚧:
           </p>
-          <div className="project-container">
-            <img src="img/tripadvisor.png" alt="tripadvisor" />
-            <div>
-              <h3>Tripadvisor Web</h3>
-              <h4>Front-End project</h4>
-              <ul>
-                <li>photo carousel</li>
-                <li>Automated sending of emails</li>
-              </ul>
+          <a href="https://tripadvisor-by-vincent.netlify.app/" target="_blank">
+            <div className="project-container">
+              <img src="img/tripadvisorbyvins.png" alt="tripadvisor" />
+              <div>
+                <h3>Tripadvisor Web</h3>
+                <h4>Front-End project</h4>
+                <ul>
+                  <li>photo carousel</li>
+                  <li>Automated sending of emails</li>
+                </ul>
+              </div>
             </div>
-          </div>
+          </a>
+          <a href="https://netflix-by-vincent.netlify.app/" target="_blank">
+            <div className="project-container">
+              <img src="img/netflixbyvins.png" alt="netflix" />
+              <div>
+                <h3>Netflix Web</h3>
+                <h4>Front-End project</h4>
+                <ul>
+                  <li>photo carousel</li>
+                  <li>Operation of an API</li>
+                </ul>
+              </div>
+            </div>
+          </a>
+          <a href="https://vinted-vincent.netlify.app/" target="_blank">
+            <div className="project-container">
+              <img src="img/vintedbyvins.png" alt="vinted" />
+              <div>
+                <h3>Vinted Web</h3>
+                <h4>Full-Stack project</h4>
+                <ul>
+                  <li>Registration / login</li>
+                  <li>Data recovery</li>
+                  <li>Posting</li>
+                  <li>Announcements</li>
+                  <li>Search bar</li>
+                  <li>Payment</li>
+                  <li>Photo upload</li>
+                </ul>
+              </div>
+            </div>
+          </a>
+          <a href="https://rawg-by-vincent.netlify.app/" target="_blank">
+            <div className="project-container">
+              <img src="img/rawgbyvincent.png" alt="rawg" />
+              <div>
+                <h3>Rawg Web</h3>
+                <h4>Full-Stack project</h4>
+                <ul>
+                  <li>Registration / login</li>
+
+                  <li>Operation of an API</li>
+                  <li>Announcements</li>
+                  <li>Search bar</li>
+                  <li>Filters</li>
+                </ul>
+              </div>
+            </div>
+          </a>
         </section>
         <section id="contact"></section>
       </main>
