@@ -21,7 +21,11 @@ function App() {
           <a href="#contact">Contact</a>
         </nav>
 
-        <img className="computer" src="img/1671641382486.jpg" alt="hello" />
+        <img
+          className="computer"
+          src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
+          alt="hello"
+        />
         <section id="about-me">
           <div className="informations">
             <img src="img/photo cv.JPG" alt="me " />
@@ -259,7 +263,11 @@ function App() {
           </div>
         </section>
       </main>
-      <footer></footer>
+      <footer>
+        <p>Portfolio produced by Vincent Desmouceaux</p>
+        <p> on React</p>
+        <p>2023</p>
+      </footer>
     </div>
   );
 }

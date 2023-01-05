@@ -213,3 +213,16 @@ h4 {
 #contact a:hover {
   color: rgb(2, 160, 233);
 }
+
+footer {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+
+footer p {
+  color: aqua;
+  line-height: 40px;
+}
