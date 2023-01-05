@@ -265,7 +265,7 @@ function App() {
       </main>
       <footer>
         <p>Portfolio produced by Vincent Desmouceaux</p>
-        <p> on React</p>
+        <p> with React®️</p>
         <p>2023</p>
       </footer>
     </div>
