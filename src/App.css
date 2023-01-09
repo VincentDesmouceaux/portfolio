@@ -176,6 +176,8 @@ h2 {
 .project-container img {
   width: 500px;
   margin-right: 80px;
+  box-shadow: 3px 3px 30px 6px #ccc;
+  border-radius: 20px;
 }
 
 h4 {
@@ -235,7 +237,7 @@ footer p {
   border-radius: 20px;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 350px) {
   .computer {
     height: 400px;
     width: 500px;
