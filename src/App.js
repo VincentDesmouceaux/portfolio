@@ -13,7 +13,7 @@ function App() {
           />
         </div>
       </header>
-      <main className="main-block">
+      <main>
         <nav>
           <a href="#about-me">About me</a>
           <a href="#education">Education</a>

@@ -23,7 +23,7 @@ p {
   height: 200px;
 }
 
-.main-block {
+main {
   width: 1024px;
   background-color: white;
 
@@ -225,4 +225,17 @@ footer {
 footer p {
   color: aqua;
   line-height: 40px;
+}
+
+#contact {
+  border-radius: 20px;
+}
+
+@media (max-width: 1000px) {
+  body {
+    background-color: rgb(0, 0, 24);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    width: 1024px;
+  }
 }
