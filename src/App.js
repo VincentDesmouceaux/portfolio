@@ -142,6 +142,23 @@ function App() {
               <span> css</span>. Here are examples of work 🚧:
             </p>
             <a
+              href="https://deliveroo-by-vincent.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img src="img/deliveroobyvins.png" alt="deliveroo" />
+                <div>
+                  <h3>Deliveroo Web</h3>
+                  <h4>Front-End project</h4>
+                  <ul>
+                    <li>Data recovery</li>
+                    <li>Order cart</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
+            <a
               href="https://tripadvisor-by-vincent.netlify.app/"
               target="_blank"
               rel="noreferrer"
