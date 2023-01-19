@@ -147,7 +147,7 @@ function App() {
               rel="noreferrer"
             >
               <div className="project-container">
-                <img src="img/deliveroobyvins.png" alt="deliveroo" />
+                <img src="img/delivins.png" alt="deliveroo" />
                 <div>
                   <h3>Deliveroo Web</h3>
                   <h4>Front-End project</h4>
