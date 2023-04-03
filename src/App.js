@@ -142,6 +142,25 @@ function App() {
               <span> css</span>. Here are examples of work 🚧:
             </p>
             <a
+              href="https://photographer-by-vd.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img
+                  src="img/Capture d’écran 2023-04-03 à 17.23.46.png"
+                  alt="thePhotographer"
+                />
+                <div>
+                  <h3>The Photographer Portfolio</h3>
+                  <h4>Front-End project</h4>
+                  <ul>
+                    <li>mastery of the basics of HTML5 and CSS3</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
+            <a
               href="https://deliveroo-by-vincent.netlify.app/"
               target="_blank"
               rel="noreferrer"
