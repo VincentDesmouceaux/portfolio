@@ -141,6 +141,24 @@ function App() {
               <span>react</span>, <span>html</span> and
               <span> css</span>. Here are examples of work 🚧:
             </p>
+
+            <a
+              href="https://mysearchbar-vd.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img src="img/mySearchBar.png" alt="thePhotographer" />
+                <div>
+                  <h3>Search bar module</h3>
+                  <h4>Front-End project</h4>
+                  <ul>
+                    <li>Operation of three APIs</li>
+                    <li>Autocomplete search</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
             <a
               href="https://photographer-by-vd.netlify.app/"
               target="_blank"
