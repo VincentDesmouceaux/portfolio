@@ -45,8 +45,8 @@ function App() {
               I built my first computer when I was in sixth grade and since
               then, I was always passionate about new technologies, I studied
               sound engineering, I worked in mobile telephony or even in real
-              estate. Knowledge of the M.E.R.S environment ( mongoDb, expo,
-              react, node.js ).
+              estate. Knowledge of the M.E.R.N environment ( mongoDb, Express,
+              React, Node.js ).
             </p>
           </section>
           <section id="education">
