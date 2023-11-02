@@ -76,6 +76,12 @@ function App() {
               <img src="/img/mongodb.png" alt="react" />
               <img
                 style={{ height: 80 }}
+                src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_wordmark_logo_icon_146305.png "
+                alt="Vue.js"
+              />
+
+<img
+                style={{ height: 80 }}
                 src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png "
                 alt="JSX"
               />
@@ -85,7 +91,7 @@ function App() {
                 alt="expo"
               />
               <img
-                src="https://www.soat.fr/assets/images/formation/git.jpg"
+                src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"
                 alt="git"
               />
 
@@ -141,6 +147,26 @@ function App() {
               <span>react</span>, <span>html</span> and
               <span> css</span>. Here are examples of work 🚧:
             </p>
+
+
+            <a
+              href="https://cafewithavue.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img src="img/Screenshot 2023-11-02 at 14.29.48.png" alt="thePhotographer" />
+                <div>
+                  <h3>Cafe with a Vue</h3>
+                  <h4>Front-End project</h4>
+                  <ul>
+                    <li>Using the Vue.js framework</li>
+                    <li>Data recovery</li>
+                    <li>Order cart</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
 
             <a
               href="https://mysearchbar-vd.netlify.app/"
