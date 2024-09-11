@@ -246,6 +246,11 @@ footer p {
   border-radius: 20px;
 }
 
+.bold-text {
+  font-weight: bold;
+}
+
+
 @media (max-width: 350px) {
   .computer {
     height: 400px;
