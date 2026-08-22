@@ -102,7 +102,7 @@ function App() {
   />
   <img
     style={{ height: 80 }}
-    src="https://www.igmguru.com/digital-marketing-programming/mern-stack-training"
+    src="https://cdn.prod.website-files.com/63d926b37ec0d886c2d5d538/6a50a505601c1b6233b149af_6a4fd27899bd0eb030d5d171_MERN.webp"
     alt="MERN Stack"
   />
   
