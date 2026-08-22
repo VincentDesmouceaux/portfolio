@@ -109,11 +109,11 @@ function App() {
     alt="git"
   />
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"
+    src="https://blog.noblinkyblinky.com/wp-content/uploads/2017/09/vsc-logo.png?w=640"
     alt="vsc"
   />
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-1024px-Node.js_logo.svg.png"
+    src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png"
     alt="node.js"
   />
   <img
@@ -122,7 +122,7 @@ function App() {
     alt="netlify"
   />
   <img
-    src="https://sofacto.force.com/support/servlet/rtaImage?eid=ka008000000dkuz&feoid=00N1p00000JI0JP&refid=0EM08000007PCaC"
+    src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Emblem.png"
     alt="stripe"
   />
   <img
