@@ -70,7 +70,7 @@ function App() {
   />
   <img
     style={{ height: 70 }}
-    src="https://ludovicwyffels.dev/blog/2019-08_pm2/cover_hu74664c7dac500caeb872530274db0e57_22469_1200x0_resize_q75_box.jpg"
+    src="https://avatars.githubusercontent.com/u/57546605?s=280&v=4"
     alt="pm2"
   />
   <img
@@ -101,7 +101,13 @@ function App() {
     alt="JSX"
   />
   <img
-    src="https://res.cloudinary.com/practicaldev/image/fetch/s--H6L3JDpH--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a"
+    style={{ height: 80 }}
+    src="https://www.igmguru.com/digital-marketing-programming/mern-stack-training"
+    alt="MERN Stack"
+  />
+  
+  <img
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3d7SD1HfuUbF4Ivuu0Up8lwhlD48fQy8dQElBC8Hy3pBM-Nf3EmeMtDSt&s=10"
     alt="expo"
   />
   <img
@@ -113,7 +119,7 @@ function App() {
     alt="vsc"
   />
   <img
-    src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text-thumbnail.png"
+    src="https://images.seeklogo.com/logo-png/26/1/node-js-logo-png_seeklogo-269242.png"
     alt="node.js"
   />
   <img
@@ -154,7 +160,7 @@ function App() {
 
   <img
     style={{ height: 100 }}
-    src="https://blog.appseed.us/content/images/2024/01/cover-flask.jpg"
+    src="https://img.icons8.com/color/1200/flask.jpg"
     alt="flask"
   />
 
