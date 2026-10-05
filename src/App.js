@@ -190,6 +190,52 @@ function App() {
 
 
             <a
+              href="https://p01--thermovision-video-api--5rcbdjs6tgqv.code.run/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img
+                  src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fp01--thermovision-video-api--5rcbdjs6tgqv.code.run%2F?w=1200"
+                  alt="ThermoVision"
+                />
+                <div>
+                  <h3>ThermoVision - Video Heatmap Processor</h3>
+                  <h4>Machine Learning / Computer Vision project</h4>
+                  <ul>
+                    <li>Video processing with Python, OpenCV and NumPy</li>
+                    <li>Pseudo-thermal heatmap generation</li>
+                    <li>Configurable image-processing parameters</li>
+                    <li>Production deployment on Northflank</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
+
+            <a
+              href="https://p01--kerozene--5rcbdjs6tgqv.code.run/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              <div className="project-container">
+                <img
+                  src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fp01--kerozene--5rcbdjs6tgqv.code.run%2F?w=1200"
+                  alt="Kerosene Flight Optimisator"
+                />
+                <div>
+                  <h3>Kerosene Flight Optimisator</h3>
+                  <h4>Machine Learning / Data Science project</h4>
+                  <ul>
+                    <li>Aircraft fuel optimisation simulation</li>
+                    <li>Multi-aircraft comparison</li>
+                    <li>Weather and wind parameter integration</li>
+                    <li>Python application deployed on Northflank</li>
+                  </ul>
+                </div>
+              </div>
+            </a>
+
+            <a
               href="https://cafewithavue.netlify.app/"
               target="_blank"
               rel="noreferrer"
